@@ -47,7 +47,7 @@ Contributions to this project are welcome! If you'd like to enhance the game, ad
 
 ## Saying thank you
 
-To say thank you, leave a star for
+To say thank you, leave a star for me.
 It will go a long way to encourage me...
 
 Goodluck in your adventure !!!
